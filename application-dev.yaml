@@ -3,3 +3,6 @@ service:
 
 employee:
   names: Ramesh, Suresh, Babi, Janaki
+
+company:
+  names: Capgemini, IBM, TCL
