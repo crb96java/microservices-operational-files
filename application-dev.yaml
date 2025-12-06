@@ -1,2 +1,5 @@
 service:
-  name: Hello Ramesh is DEV ENV.
+  name: Hello Ramesh, is DEV ENV.
+
+employee:
+  names: Ramesh, Suresh, Babi, Janaki
